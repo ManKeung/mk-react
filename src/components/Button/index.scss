@@ -1,0 +1,27 @@
+.mk-button {
+	display: inline-block;
+	background-color: $color;
+	padding: 0 14px;
+	line-height: 40px;
+	font-size: 14px;
+	color: white;
+	border-radius: 4px;
+	cursor: pointer;
+
+	&:hover {
+		opacity: 0.9;
+	}
+}
+
+.mk-button-big {
+	line-height: 50px;
+	font-size: 16px;
+	padding: 0 20px;
+}
+
+.mk-button-min {
+	line-height: 30px;
+	font-size: 12px;
+	border-radius: 3px;
+	padding: 0 10px;
+}

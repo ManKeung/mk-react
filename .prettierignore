@@ -1,0 +1,26 @@
+# npm
+
+node_modules
+
+# folder
+
+dist
+public
+templates
+
+# file
+
+postcss.config.js
+babel.config.js
+.eslintrc.js
+.prettierrc.js
+plopfile.js
+.stylelintrc.js
+*.json
+*.html
+*.svg
+*.d.ts
+
+# vscode
+
+.vscode

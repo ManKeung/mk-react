@@ -1,0 +1,30 @@
+# 根据自己的实际需求进行添加
+
+# npm
+
+node_modules
+
+# folder
+
+dist
+public
+templates
+docs
+www
+scripts
+
+# file
+
+postcss.config.js
+babel.config.js
+.eslintrc.js
+plopfile.js
+.stylelintrc.js
+.prettierrc.js
+*.json
+*.html
+*.d.ts
+
+# vscode
+
+.vscode
